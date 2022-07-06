@@ -119,6 +119,7 @@ TODO
 
 Contact
 -------
-Contact email: pawgo@protonmail.com
+Contact email: sa976171@gmail.com
+Telegram: sameerresiex
 If you found this program useful, consider making a donation, I will appreciate it! 
 **BTC**: `bc1qz2akvlch75rqdfg8pv7chqvz3m8jsl49k0kszc`
